@@ -1,0 +1,3 @@
+[submodule "scripts/Photoshop-Export-Layers-to-Files-Fast"]
+	path = scripts/Photoshop-Export-Layers-to-Files-Fast
+	url = https://github.com/antipalindrome/Photoshop-Export-Layers-to-Files-Fast.git
